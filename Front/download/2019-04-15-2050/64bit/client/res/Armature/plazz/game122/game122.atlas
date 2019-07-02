@@ -1,0 +1,76 @@
+
+21dian.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+21dian
+  rotate: false
+  xy: 914, 473
+  size: 77, 37
+  orig: 77, 37
+  offset: 0, 0
+  index: -1
+21dian1
+  rotate: false
+  xy: 359, 371
+  size: 265, 139
+  orig: 265, 139
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 782, 322
+  size: 112, 143
+  orig: 112, 143
+  offset: 0, 0
+  index: -1
+chouma
+  rotate: false
+  xy: 281, 310
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+chouma1
+  rotate: true
+  xy: 2, 2
+  size: 67, 47
+  orig: 67, 47
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 71
+  size: 273, 52
+  orig: 273, 52
+  offset: 0, 0
+  index: -1
+di1
+  rotate: false
+  xy: 2, 125
+  size: 277, 217
+  orig: 277, 217
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 626, 467
+  size: 286, 43
+  orig: 286, 43
+  offset: 0, 0
+  index: -1
+j
+  rotate: true
+  xy: 626, 335
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ptex0102_01
+  rotate: false
+  xy: 2, 344
+  size: 355, 166
+  orig: 355, 166
+  offset: 0, 0
+  index: -1

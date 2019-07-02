@@ -1,0 +1,103 @@
+
+jackpot.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dibandeng
+  rotate: false
+  xy: 2, 531
+  size: 551, 472
+  orig: 551, 472
+  offset: 0, 0
+  index: -1
+guangzhuang1
+  rotate: false
+  xy: 555, 573
+  size: 213, 430
+  orig: 213, 430
+  offset: 0, 0
+  index: -1
+huangguan
+  rotate: false
+  xy: 2, 125
+  size: 598, 404
+  orig: 598, 404
+  offset: 0, 0
+  index: -1
+jaclpot
+  rotate: true
+  xy: 770, 330
+  size: 673, 228
+  orig: 673, 228
+  offset: 0, 0
+  index: -1
+jiangchi
+  rotate: false
+  xy: 2, 25
+  size: 440, 98
+  orig: 440, 98
+  offset: 0, 0
+  index: -1
+jinbi1
+  rotate: false
+  xy: 602, 139
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: false
+  xy: 555, 535
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 719, 26
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: true
+  xy: 602, 168
+  size: 403, 115
+  orig: 403, 115
+  offset: 0, 0
+  index: -1
+texiao6
+  rotate: false
+  xy: 2, 2
+  size: 82, 21
+  orig: 82, 21
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 444, 35
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+
+jackpot2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hong
+  rotate: false
+  xy: 2, 2
+  size: 507, 183
+  orig: 507, 183
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: false
+  xy: 511, 4
+  size: 258, 181
+  orig: 258, 181
+  offset: 0, 0
+  index: -1

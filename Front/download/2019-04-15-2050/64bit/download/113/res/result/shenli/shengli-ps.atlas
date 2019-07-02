@@ -1,0 +1,69 @@
+
+shengli-ps.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cb_guang
+  rotate: false
+  xy: 369, 20
+  size: 152, 173
+  orig: 152, 173
+  offset: 0, 0
+  index: -1
+chiban
+  rotate: false
+  xy: 899, 215
+  size: 118, 135
+  orig: 118, 135
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 334
+  size: 703, 149
+  orig: 703, 149
+  offset: 0, 0
+  index: -1
+guangxiao
+  rotate: false
+  xy: 569, 183
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+huangguang
+  rotate: false
+  xy: 523, 53
+  size: 173, 128
+  orig: 173, 128
+  offset: 0, 0
+  index: -1
+huangguang_01
+  rotate: false
+  xy: 720, 221
+  size: 177, 129
+  orig: 177, 129
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 2, 195
+  size: 565, 137
+  orig: 565, 137
+  offset: 0, 0
+  index: -1
+shengli
+  rotate: false
+  xy: 707, 352
+  size: 256, 131
+  orig: 256, 131
+  offset: 0, 0
+  index: -1
+shengli-01
+  rotate: false
+  xy: 2, 2
+  size: 365, 191
+  orig: 365, 191
+  offset: 0, 0
+  index: -1

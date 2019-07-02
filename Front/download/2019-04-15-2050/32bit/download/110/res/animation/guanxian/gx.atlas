@@ -1,0 +1,13 @@
+
+gx.png
+size: 128,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx
+  rotate: false
+  xy: 2, 2
+  size: 91, 774
+  orig: 93, 775
+  offset: 1, 0
+  index: -1

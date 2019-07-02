@@ -1,0 +1,110 @@
+[
+   {
+      "room_style": 1,
+      "cannon_id": 101,
+      "odds_min": 1,
+      "odds_max": 3,
+      "level": 1,
+      "res": "pao1_buyu",
+      "bullet": "zd1",
+      "net": "yuwang1_buyu",
+      "time": 200,
+      "sound": 101
+   },
+   {
+      "room_style": 1,
+      "cannon_id": 102,
+      "odds_min": 4,
+      "odds_max": 6,
+      "level": 2,
+      "res": "pao1_buyu",
+      "bullet": "zd2",
+      "net": "yuwang1_buyu",
+      "time": 200,
+      "sound": 102
+   },
+   {
+      "room_style": 1,
+      "cannon_id": 103,
+      "odds_min": 7,
+      "odds_max": 10,
+      "level": 3,
+      "res": "pao1_buyu",
+      "bullet": "zd3",
+      "net": "yuwang1_buyu",
+      "time": 200,
+      "sound": 103
+   },
+   {
+      "room_style": 2,
+      "cannon_id": 104,
+      "odds_min": 1,
+      "odds_max": 3,
+      "level": 1,
+      "res": "pao2_buyu",
+      "bullet": "zd4",
+      "net": "yuwang2_buyu",
+      "time": 200,
+      "sound": 104
+   },
+   {
+      "room_style": 2,
+      "cannon_id": 105,
+      "odds_min": 4,
+      "odds_max": 6,
+      "level": 2,
+      "res": "pao2_buyu",
+      "bullet": "zd5",
+      "net": "yuwang2_buyu",
+      "time": 200,
+      "sound": 105
+   },
+   {
+      "room_style": 2,
+      "cannon_id": 106,
+      "odds_min": 7,
+      "odds_max": 10,
+      "level": 3,
+      "res": "pao2_buyu",
+      "bullet": "zd6",
+      "net": "yuwang2_buyu",
+      "time": 200,
+      "sound": 106
+   },
+   {
+      "room_style": 3,
+      "cannon_id": 107,
+      "odds_min": 1,
+      "odds_max": 3,
+      "level": 1,
+      "res": "pao3_buyu",
+      "bullet": "zd7",
+      "net": "yuwang3_buyu",
+      "time": 200,
+      "sound": 107
+   },
+   {
+      "room_style": 3,
+      "cannon_id": 108,
+      "odds_min": 4,
+      "odds_max": 6,
+      "level": 2,
+      "res": "pao3_buyu",
+      "bullet": "zd8",
+      "net": "yuwang3_buyu",
+      "time": 200,
+      "sound": 108
+   },
+   {
+      "room_style": 3,
+      "cannon_id": 109,
+      "odds_min": 7,
+      "odds_max": 10,
+      "level": 3,
+      "res": "pao3_buyu",
+      "bullet": "zd9",
+      "net": "yuwang3_buyu",
+      "time": 200,
+      "sound": 109
+   }
+]

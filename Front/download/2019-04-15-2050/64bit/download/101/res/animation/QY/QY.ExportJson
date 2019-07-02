@@ -1,0 +1,3702 @@
+{
+  "content_scale": 1.0,
+  "armature_data": [
+    {
+      "strVersion": "1.6.0.0",
+      "version": 1.6,
+      "name": "QY",
+      "bone_data": [
+        {
+          "name": "Layer3_Copy13",
+          "parent": "",
+          "dI": 15,
+          "x": 683.75030517578125,
+          "y": -58.005100250244141,
+          "z": 8,
+          "cX": 0.6999999,
+          "cY": 1.1,
+          "kX": 3.13479,
+          "kY": -3.13479,
+          "arrow_x": 294.0069580078125,
+          "arrow_y": -4.5459077227860689E-05,
+          "effectbyskeleton": true,
+          "bl": 294,
+          "display_data": [
+            {
+              "name": "huoyan- 1/huoyan10001.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": 3.13479
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10002.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10003.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10004.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10005.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10006.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10007.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10008.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10009.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10010.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10011.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10012.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10013.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10014.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10015.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10016.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer3_Copy14_Copy20",
+          "parent": "",
+          "dI": 15,
+          "x": 522.75042724609375,
+          "y": -390.005126953125,
+          "z": 7,
+          "cX": 0.9,
+          "cY": 0.5999999,
+          "kX": 4.66505,
+          "kY": -4.66505,
+          "arrow_x": 294.0069580078125,
+          "arrow_y": -4.5459077227860689E-05,
+          "effectbyskeleton": true,
+          "bl": 294,
+          "display_data": [
+            {
+              "name": "huoyan- 1/huoyan10001.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": 3.13479
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10002.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10003.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10004.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10005.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10006.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10007.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10008.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10009.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10010.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10011.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10012.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10013.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10014.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10015.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10016.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer3_Copy15",
+          "parent": "",
+          "dI": 15,
+          "x": -686.67828369140625,
+          "y": -39.147991180419922,
+          "z": 6,
+          "cX": 0.6999999,
+          "cY": 1.0,
+          "kX": 6.26723146,
+          "kY": -6.26723146,
+          "arrow_x": 294.0069580078125,
+          "arrow_y": -4.5459077227860689E-05,
+          "effectbyskeleton": true,
+          "bl": 294,
+          "display_data": [
+            {
+              "name": "huoyan- 1/huoyan10001.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": 3.13479
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10002.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10003.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10004.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10005.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10006.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10007.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10008.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10009.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10010.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10011.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10012.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10013.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10014.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10015.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10016.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer3_Copy16",
+          "parent": "",
+          "dI": 15,
+          "x": -339.2496337890625,
+          "y": 396.994873046875,
+          "z": 5,
+          "cX": 0.9,
+          "cY": 1.0,
+          "kX": 7.83054256,
+          "kY": -7.83054256,
+          "arrow_x": 294.0069580078125,
+          "arrow_y": -4.5459077227860689E-05,
+          "effectbyskeleton": true,
+          "bl": 294,
+          "display_data": [
+            {
+              "name": "huoyan- 1/huoyan10001.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": 3.13479
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10002.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10003.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10004.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10005.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10006.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10007.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10008.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10009.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10010.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10011.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10012.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10013.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10014.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10015.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10016.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer3_Copy17",
+          "parent": "",
+          "dI": 15,
+          "x": 388.75030517578125,
+          "y": 402.994873046875,
+          "z": 4,
+          "cX": 0.9,
+          "cY": -1.0,
+          "kX": 7.85705566,
+          "kY": -7.85705566,
+          "arrow_x": 294.0069580078125,
+          "arrow_y": -4.5459077227860689E-05,
+          "effectbyskeleton": true,
+          "bl": 294,
+          "display_data": [
+            {
+              "name": "huoyan- 1/huoyan10001.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": 3.13479
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10002.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10003.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10004.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10005.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10006.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10007.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10008.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10009.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10010.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10011.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10012.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10013.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10014.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10015.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10016.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer3_Copy58",
+          "parent": "",
+          "dI": 15,
+          "x": -60.249393463134766,
+          "y": -389.00509643554688,
+          "z": 3,
+          "cX": 0.9,
+          "cY": 1.0,
+          "kX": 4.711284,
+          "kY": -4.711284,
+          "arrow_x": 294.0069580078125,
+          "arrow_y": -4.5459077227860689E-05,
+          "effectbyskeleton": true,
+          "bl": 294,
+          "display_data": [
+            {
+              "name": "huoyan- 1/huoyan10001.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": 3.13479
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10002.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10003.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10004.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10005.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10006.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10007.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10008.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10009.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10010.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10011.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10012.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10013.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10014.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10015.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10016.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer3",
+          "parent": "",
+          "dI": 15,
+          "x": -311.2496337890625,
+          "y": -387.00509643554688,
+          "z": 2,
+          "cX": 0.9,
+          "cY": -1.0,
+          "kX": 4.72216129,
+          "kY": -4.72216129,
+          "arrow_x": 294.0069580078125,
+          "arrow_y": -4.5459077227860689E-05,
+          "effectbyskeleton": true,
+          "bl": 294,
+          "display_data": [
+            {
+              "name": "huoyan- 1/huoyan10001.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": 3.13479
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10002.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10003.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10004.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10005.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10006.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10007.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10008.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10009.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10010.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10011.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10012.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10013.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10014.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10015.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            },
+            {
+              "name": "huoyan- 1/huoyan10016.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 84.17505,
+                  "y": 25.4281,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 3.14839435,
+                  "kY": -3.14839435
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "QY",
+      "mov_data": [
+        {
+          "name": "Animation1",
+          "dr": 48,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 0.5,
+          "mov_bone_data": [
+            {
+              "name": "Layer3_Copy13",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 13,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 14,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 3,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 15,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 6,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 12,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 18,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 4,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 21,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 6,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 27,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 7,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 8,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 33,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 9,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 36,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 10,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 39,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 11,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 42,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 12,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 12,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 47,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer3_Copy14_Copy20",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 3,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 6,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 4,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 12,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 6,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 18,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 7,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 21,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 8,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 9,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 27,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 10,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 11,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 33,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 12,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 36,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 13,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 39,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 14,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 42,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 15,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 15,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 47,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer3_Copy15",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 3,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 6,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 4,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 12,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 6,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 18,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 7,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 21,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 8,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 9,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 27,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 10,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 11,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 33,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 12,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 36,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 13,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 39,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 14,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 42,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 15,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 15,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 47,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer3_Copy16",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 3,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 6,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 4,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 12,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 6,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 18,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 7,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 21,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 8,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 9,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 27,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 10,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 11,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 33,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 12,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 36,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 13,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 39,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 14,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 42,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 15,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 15,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 47,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer3_Copy17",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 7,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 8,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 3,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 9,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 6,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 10,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 11,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 12,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 12,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 13,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 18,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 14,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 21,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 15,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 27,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 33,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 36,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 4,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 39,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 42,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 6,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 6,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 47,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer3_Copy58",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 12,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 13,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 3,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 14,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 6,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 15,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 12,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 18,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 21,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 4,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 27,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 6,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 7,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 33,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 8,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 36,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 9,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 39,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 10,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 42,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 11,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 11,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 47,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 7,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 8,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 3,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 9,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 6,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 10,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 11,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 12,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 11,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 14,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 12,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 13,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 18,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 14,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 21,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 15,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 27,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 33,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 36,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 4,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 39,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 42,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 6,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 6,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 47,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texture_data": [
+    {
+      "name": "huoyan- 1/huoyan10001",
+      "width": 118.0,
+      "height": 340.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "huoyan- 1/huoyan10002",
+      "width": 118.0,
+      "height": 340.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "huoyan- 1/huoyan10003",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "huoyan- 1/huoyan10004",
+      "width": 118.0,
+      "height": 340.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "huoyan- 1/huoyan10005",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "huoyan- 1/huoyan10006",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "huoyan- 1/huoyan10007",
+      "width": 118.0,
+      "height": 340.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "huoyan- 1/huoyan10008",
+      "width": 118.0,
+      "height": 340.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "huoyan- 1/huoyan10009",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "huoyan- 1/huoyan10010",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "huoyan- 1/huoyan10011",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "huoyan- 1/huoyan10012",
+      "width": 118.0,
+      "height": 340.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "huoyan- 1/huoyan10013",
+      "width": 118.0,
+      "height": 340.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "huoyan- 1/huoyan10014",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "huoyan- 1/huoyan10015",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "huoyan- 1/huoyan10016",
+      "width": 118.0,
+      "height": 340.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    }
+  ],
+  "config_file_path": [
+    "QY0.plist"
+  ],
+  "config_png_path": [
+    "QY0.png"
+  ]
+}

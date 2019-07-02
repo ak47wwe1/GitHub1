@@ -1,0 +1,167 @@
+
+shangmianzt.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00001
+  rotate: false
+  xy: 2, 636
+  size: 293, 134
+  orig: 293, 134
+  offset: 0, 0
+  index: -1
+01_00002
+  rotate: false
+  xy: 2, 500
+  size: 293, 134
+  orig: 293, 134
+  offset: 0, 0
+  index: -1
+01_00003
+  rotate: false
+  xy: 297, 636
+  size: 293, 134
+  orig: 293, 134
+  offset: 0, 0
+  index: -1
+01_00004
+  rotate: false
+  xy: 2, 364
+  size: 293, 134
+  orig: 293, 134
+  offset: 0, 0
+  index: -1
+01_00005
+  rotate: false
+  xy: 297, 500
+  size: 293, 134
+  orig: 293, 134
+  offset: 0, 0
+  index: -1
+01_00006
+  rotate: false
+  xy: 592, 636
+  size: 293, 134
+  orig: 293, 134
+  offset: 0, 0
+  index: -1
+01_00007
+  rotate: false
+  xy: 2, 228
+  size: 293, 134
+  orig: 293, 134
+  offset: 0, 0
+  index: -1
+01_00008
+  rotate: false
+  xy: 297, 364
+  size: 293, 134
+  orig: 293, 134
+  offset: 0, 0
+  index: -1
+01_00009
+  rotate: false
+  xy: 592, 500
+  size: 293, 134
+  orig: 293, 134
+  offset: 0, 0
+  index: -1
+01_00010
+  rotate: false
+  xy: 2, 92
+  size: 293, 134
+  orig: 293, 134
+  offset: 0, 0
+  index: -1
+01_00011
+  rotate: false
+  xy: 297, 228
+  size: 293, 134
+  orig: 293, 134
+  offset: 0, 0
+  index: -1
+01_00012
+  rotate: false
+  xy: 592, 364
+  size: 293, 134
+  orig: 293, 134
+  offset: 0, 0
+  index: -1
+01_00013
+  rotate: true
+  xy: 887, 477
+  size: 293, 134
+  orig: 293, 134
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 297, 160
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+baiziguang
+  rotate: false
+  xy: 2, 62
+  size: 134, 28
+  orig: 134, 28
+  offset: 0, 0
+  index: -1
+qiziguang
+  rotate: false
+  xy: 2, 62
+  size: 134, 28
+  orig: 134, 28
+  offset: 0, 0
+  index: -1
+hang
+  rotate: false
+  xy: 592, 303
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+meng
+  rotate: false
+  xy: 653, 303
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+qi
+  rotate: false
+  xy: 297, 100
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+ru
+  rotate: false
+  xy: 367, 168
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+wan
+  rotate: false
+  xy: 887, 416
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+xiang
+  rotate: false
+  xy: 592, 243
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+yue
+  rotate: false
+  xy: 2, 2
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1

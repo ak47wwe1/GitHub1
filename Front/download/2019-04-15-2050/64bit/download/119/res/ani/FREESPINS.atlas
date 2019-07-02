@@ -1,0 +1,60 @@
+
+FREESPINS.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lansetexiao
+  rotate: false
+  xy: 2, 257
+  size: 886, 750
+  orig: 1334, 750
+  offset: 225, 0
+  index: -1
+texiao7
+  rotate: false
+  xy: 2, 2
+  size: 586, 253
+  orig: 586, 253
+  offset: 0, 0
+  index: -1
+
+FREESPINS2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SPINS
+  rotate: false
+  xy: 2, 2
+  size: 570, 174
+  orig: 573, 176
+  offset: 2, 1
+  index: -1
+texiao5
+  rotate: false
+  xy: 2, 178
+  size: 722, 337
+  orig: 722, 337
+  offset: 0, 0
+  index: -1
+texiao8
+  rotate: false
+  xy: 2, 517
+  size: 708, 380
+  orig: 708, 380
+  offset: 0, 0
+  index: -1
+
+FREESPINS3.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FREE
+  rotate: false
+  xy: 2, 2
+  size: 508, 172
+  orig: 510, 174
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,160 @@
+
+zhajinhua.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 291, 311
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+0010002
+  rotate: false
+  xy: 2, 127
+  size: 170, 161
+  orig: 170, 161
+  offset: 0, 0
+  index: -1
+0010004
+  rotate: false
+  xy: 291, 349
+  size: 170, 161
+  orig: 170, 161
+  offset: 0, 0
+  index: -1
+0010006
+  rotate: false
+  xy: 463, 349
+  size: 170, 161
+  orig: 170, 161
+  offset: 0, 0
+  index: -1
+0010008
+  rotate: false
+  xy: 635, 349
+  size: 170, 161
+  orig: 170, 161
+  offset: 0, 0
+  index: -1
+0010010
+  rotate: false
+  xy: 807, 349
+  size: 170, 161
+  orig: 170, 161
+  offset: 0, 0
+  index: -1
+0010012
+  rotate: false
+  xy: 174, 127
+  size: 170, 161
+  orig: 170, 161
+  offset: 0, 0
+  index: -1
+0010014
+  rotate: false
+  xy: 346, 186
+  size: 170, 161
+  orig: 170, 161
+  offset: 0, 0
+  index: -1
+0010016
+  rotate: false
+  xy: 518, 186
+  size: 170, 161
+  orig: 170, 161
+  offset: 0, 0
+  index: -1
+0010018
+  rotate: false
+  xy: 690, 186
+  size: 170, 161
+  orig: 170, 161
+  offset: 0, 0
+  index: -1
+0010020
+  rotate: false
+  xy: 346, 23
+  size: 170, 161
+  orig: 170, 161
+  offset: 0, 0
+  index: -1
+0010022
+  rotate: false
+  xy: 518, 23
+  size: 170, 161
+  orig: 170, 161
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 979, 479
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 102, 2
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+gu
+  rotate: false
+  xy: 690, 43
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+pai_1
+  rotate: true
+  xy: 862, 227
+  size: 120, 79
+  orig: 120, 79
+  offset: 0, 0
+  index: -1
+pai_2
+  rotate: false
+  xy: 2, 41
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+pai_3
+  rotate: false
+  xy: 690, 103
+  size: 106, 81
+  orig: 106, 81
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 2, 2
+  size: 98, 37
+  orig: 98, 37
+  offset: 0, 0
+  index: -1
+touying_1
+  rotate: false
+  xy: 111, 71
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+touying_2
+  rotate: false
+  xy: 862, 214
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+zha-di
+  rotate: false
+  xy: 2, 290
+  size: 287, 220
+  orig: 287, 220
+  offset: 0, 0
+  index: -1

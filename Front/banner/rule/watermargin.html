@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<!-- saved from url=(0169)https://api.miaoshouhuinuan.com/view/lhj_shuoming.html?uid=161267231&token=MTYxMjY3MjMxXzE1NDAzMTI5NDI4OTA6UTM1WTJZbFVIVUZtUUZudA==&uuid=58ce5dd0171b669157b1b3f328db4998 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<meta name="format-detection" content="telephone=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1 user-scalable=no">
+	<title>财神到规则</title>
+	<style type="text/css">
+
+		html {
+			-webkit-text-size-adjust: 100%;
+		}
+
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		.title {
+			height: 30px;
+			background-size: auto 100%;
+			background: url(../dist/images/title_back.png);
+			font-size: 20px;
+			color: white;
+			line-height: 30px;
+			text-align: center;
+		}
+
+		.partial {
+			margin-left: 13px;
+			margin-top: 5px;
+			margin-bottom: 10px;
+		}
+
+		.sub-title {
+			height: 23px;
+			line-height: 23px;
+			border-radius: 3px;
+			color: white;
+			text-align: center;
+			font-size: 16px;
+			background: #018ada;
+			display: inline-block;
+			padding: 0 8px;
+		}
+
+		.sub-content {
+			margin-top: 2px;
+			margin-left: 2px;
+			color: #101b2f;
+			font-size: 14px;
+		}
+
+
+
+		/* Style the tab */
+		.tab {
+			overflow: hidden;
+			border: 1px solid #ccc;
+			background-color: #f1f1f1;
+		}
+
+		/* Style the buttons that are used to open the tab content */
+		.tab button {
+			width: 50%;
+			font-size: 20px;
+			color: white;
+			background-image: url(../dist/images/tab_bg_default.png);
+			float: left;
+			border: none;
+			outline: none;
+			cursor: pointer;
+			padding: 14px 16px;
+			transition: 0.3s;
+		}
+
+		/* Change background color of buttons on hover */
+		.tab button:hover {
+			background: url(../dist/images/tab_bg_default.png) no-repeat;
+		}
+
+		/* Create an active/current tablink class */
+		.tab button.active {
+			background: url(../dist/images/tab_bg_active.png) no-repeat;
+		}
+
+		/* Style the tab content */
+		.tabcontent {
+			width:100%;
+			display: none;
+			border: 1px solid #ccc;
+			border-top: none;
+
+			/* Full height */
+			height: 100%;
+
+			/* Center and scale the image nicely */
+			background: no-repeat top;
+			/*background-size: cover;*/
+		}
+
+	</style>
+</head>
+<body>
+<div id="main">
+	<div class="title">
+		财神到规则
+	</div>
+	<!-- Tab links -->
+	<div class="tab">
+		<button class="tablinks active" onclick="openRule(event, &#39;win&#39;)">中奖说明</button>
+		<button class="tablinks" onclick="openRule(event, &#39;rate&#39;)">倍率</button>
+	</div>
+	<div>
+		<!-- Tab content -->
+		<div id="win" class="tabcontent" style="display: block; height: calc(172.183vw);">
+			<img id="win_pic" src="../dist/images/slot_win.jpg" width="100%">
+		</div>
+
+		<div id="rate" class="tabcontent">
+			<img src="../dist/images/slot_rate.jpg" width="100%">
+		</div>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+    function openRule(evt, cityName) {
+        // Declare all variables
+        var i, tabcontent, tablinks;
+
+        // Get all elements with class="tabcontent" and hide them
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+
+        // Get all elements with class="tablinks" and remove the class "active"
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+
+        // Show the current tab, and add an "active" class to the button that opened the tab
+        document.getElementById(cityName).style.display = "block";
+        evt.currentTarget.className += " active";
+	};
+
+	var pic = document.getElementById('win_pic');
+	pic.onload = function(){
+       if(!this.readyState||this.readyState=='loaded'||this.readyState=='complete'){
+           document.getElementById('win').style.height = 'calc(100vw * (1956 / 1136))';
+       };
+	};
+	
+	window.onload = function() {
+		var pic = document.getElementById('win_pic');
+		document.getElementById('win').style.height = 'calc(100vw * (1956 / 1136))';
+		pic.onload = function(){
+			if(!this.readyState||this.readyState=='loaded'||this.readyState=='complete'){
+				document.getElementById('win').style.height = 'calc(100vw * (1956 / 1136))';
+			};
+		};
+	};
+
+</script>
+</body></html>

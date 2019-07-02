@@ -1,0 +1,244 @@
+
+paixing20.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 594, 380
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 726, 468
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 481, 334
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 972, 940
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+a5
+  rotate: true
+  xy: 971, 699
+  size: 60, 19
+  orig: 60, 19
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 99, 16
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+b1
+  rotate: true
+  xy: 992, 707
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 798, 581
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+b3
+  rotate: true
+  xy: 761, 578
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+b4
+  rotate: true
+  xy: 313, 227
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+b5
+  rotate: true
+  xy: 992, 733
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+b6
+  rotate: false
+  xy: 313, 113
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+baiguang
+  rotate: true
+  xy: 972, 970
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+d2
+  rotate: true
+  xy: 2, 2
+  size: 39, 95
+  orig: 39, 95
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 621, 617
+  size: 175, 142
+  orig: 175, 142
+  offset: 0, 0
+  index: -1
+d4
+  rotate: true
+  xy: 2, 43
+  size: 221, 157
+  orig: 221, 157
+  offset: 0, 0
+  index: -1
+d5
+  rotate: false
+  xy: 481, 373
+  size: 111, 147
+  orig: 111, 147
+  offset: 0, 0
+  index: -1
+d6
+  rotate: false
+  xy: 355, 324
+  size: 124, 235
+  orig: 124, 235
+  offset: 0, 0
+  index: -1
+d7
+  rotate: false
+  xy: 474, 670
+  size: 145, 154
+  orig: 145, 154
+  offset: 0, 0
+  index: -1
+ditu1
+  rotate: false
+  xy: 2, 561
+  size: 429, 106
+  orig: 429, 106
+  offset: 0, 0
+  index: -1
+ditu2
+  rotate: true
+  xy: 200, 258
+  size: 301, 153
+  orig: 301, 153
+  offset: 0, 0
+  index: -1
+ditu3
+  rotate: false
+  xy: 629, 869
+  size: 341, 150
+  orig: 341, 150
+  offset: 0, 0
+  index: -1
+huangguang
+  rotate: false
+  xy: 2, 826
+  size: 625, 193
+  orig: 625, 193
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 313, 142
+  size: 117, 83
+  orig: 117, 83
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 433, 578
+  size: 30, 89
+  orig: 30, 89
+  offset: 0, 0
+  index: -1
+mao1
+  rotate: false
+  xy: 355, 227
+  size: 126, 95
+  orig: 126, 95
+  offset: 0, 0
+  index: -1
+mao2
+  rotate: true
+  xy: 161, 39
+  size: 217, 150
+  orig: 217, 150
+  offset: 0, 0
+  index: -1
+mao3
+  rotate: false
+  xy: 594, 405
+  size: 130, 98
+  orig: 130, 98
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 266
+  size: 196, 293
+  orig: 196, 293
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: false
+  xy: 798, 624
+  size: 171, 135
+  orig: 171, 135
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 481, 522
+  size: 138, 146
+  orig: 138, 146
+  offset: 0, 0
+  index: -1
+wenzi_shierhuangzu
+  rotate: false
+  xy: 629, 761
+  size: 369, 106
+  orig: 369, 106
+  offset: 0, 0
+  index: -1
+wenzi_shierhuangzu1
+  rotate: false
+  xy: 2, 669
+  size: 470, 155
+  orig: 470, 155
+  offset: 0, 0
+  index: -1
+zhua2
+  rotate: true
+  xy: 621, 505
+  size: 110, 138
+  orig: 110, 138
+  offset: 0, 0
+  index: -1

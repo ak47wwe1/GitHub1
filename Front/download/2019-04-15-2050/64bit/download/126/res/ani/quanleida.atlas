@@ -1,0 +1,132 @@
+
+quanleida.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bangqiu
+  rotate: false
+  xy: 2, 232
+  size: 363, 242
+  orig: 363, 242
+  offset: 0, 0
+  index: -1
+jianbian
+  rotate: false
+  xy: 2, 747
+  size: 1283, 229
+  orig: 1283, 229
+  offset: 0, 0
+  index: -1
+lvguang
+  rotate: false
+  xy: 2, 476
+  size: 425, 269
+  orig: 425, 269
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 1429, 552
+  size: 165, 167
+  orig: 165, 167
+  offset: 0, 0
+  index: -1
+shoutao
+  rotate: false
+  xy: 1279, 526
+  size: 148, 193
+  orig: 148, 193
+  offset: 0, 0
+  index: -1
+wenzi_quanleida
+  rotate: false
+  xy: 429, 632
+  size: 308, 113
+  orig: 308, 113
+  offset: 0, 0
+  index: -1
+wenzi_quanleida_00000
+  rotate: false
+  xy: 1287, 836
+  size: 387, 140
+  orig: 387, 140
+  offset: 0, 0
+  index: -1
+wztx1_00001
+  rotate: false
+  xy: 2, 117
+  size: 308, 113
+  orig: 308, 113
+  offset: 0, 0
+  index: -1
+wztx1_00003
+  rotate: false
+  xy: 1676, 863
+  size: 308, 113
+  orig: 308, 113
+  offset: 0, 0
+  index: -1
+wztx1_00005
+  rotate: false
+  xy: 429, 517
+  size: 308, 113
+  orig: 308, 113
+  offset: 0, 0
+  index: -1
+wztx1_00007
+  rotate: false
+  xy: 739, 632
+  size: 308, 113
+  orig: 308, 113
+  offset: 0, 0
+  index: -1
+wztx1_00009
+  rotate: false
+  xy: 2, 2
+  size: 308, 113
+  orig: 308, 113
+  offset: 0, 0
+  index: -1
+wztx1_00011
+  rotate: false
+  xy: 739, 517
+  size: 308, 113
+  orig: 308, 113
+  offset: 0, 0
+  index: -1
+wztx1_00013
+  rotate: false
+  xy: 1287, 721
+  size: 308, 113
+  orig: 308, 113
+  offset: 0, 0
+  index: -1
+wztx1_00015
+  rotate: false
+  xy: 429, 402
+  size: 308, 113
+  orig: 308, 113
+  offset: 0, 0
+  index: -1
+wztx1_00017
+  rotate: false
+  xy: 739, 402
+  size: 308, 113
+  orig: 308, 113
+  offset: 0, 0
+  index: -1
+wztx1_00019
+  rotate: true
+  xy: 1049, 437
+  size: 308, 113
+  orig: 308, 113
+  offset: 0, 0
+  index: -1
+wztx1_00021
+  rotate: true
+  xy: 1164, 437
+  size: 308, 113
+  orig: 308, 113
+  offset: 0, 0
+  index: -1

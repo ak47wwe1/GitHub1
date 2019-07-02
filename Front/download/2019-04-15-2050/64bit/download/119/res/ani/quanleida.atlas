@@ -1,0 +1,13 @@
+
+quanleida.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_01
+  rotate: false
+  xy: 2, 2
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1

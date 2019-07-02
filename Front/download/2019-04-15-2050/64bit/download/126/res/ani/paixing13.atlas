@@ -1,0 +1,139 @@
+
+paixing13.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua1
+  rotate: false
+  xy: 327, 181
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 2, 92
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: false
+  xy: 752, 304
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: false
+  xy: 752, 354
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+shanguang
+  rotate: false
+  xy: 752, 408
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1
+tengman
+  rotate: false
+  xy: 2, 239
+  size: 748, 271
+  orig: 748, 271
+  offset: 0, 0
+  index: -1
+wenzi_wuduisantiao
+  rotate: false
+  xy: 2, 151
+  size: 323, 86
+  orig: 323, 86
+  offset: 0, 0
+  index: -1
+ye1
+  rotate: false
+  xy: 61, 114
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+ye11
+  rotate: true
+  xy: 854, 417
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+ye12
+  rotate: true
+  xy: 897, 456
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: false
+  xy: 854, 446
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+ye3
+  rotate: false
+  xy: 2, 34
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+ye4
+  rotate: true
+  xy: 2, 2
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+ye5
+  rotate: false
+  xy: 897, 476
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+ye6
+  rotate: true
+  xy: 327, 152
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+ye7
+  rotate: false
+  xy: 809, 374
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+ye9
+  rotate: false
+  xy: 450, 202
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+yzpl1
+  rotate: true
+  xy: 383, 199
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+yzpl2
+  rotate: false
+  xy: 752, 277
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1

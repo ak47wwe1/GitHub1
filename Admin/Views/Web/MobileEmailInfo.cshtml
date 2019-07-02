@@ -1,0 +1,133 @@
+﻿@{
+    Layout = null;
+    ViewBag.Title = "网站系统 - 邮件编辑";
+    Game.Entity.NativeWeb.MobileEmail entity = ViewData["Data"] == null ? null : ViewData["Data"] as Game.Entity.NativeWeb.MobileEmail;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/Admin/css/bootstrap-cerulean.min.css" rel="stylesheet" />
+    <link href="~/Content/Admin/css/charisma-app.css" rel="stylesheet" />
+    <link href="~/Content/common.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/comm.js"></script>
+</head>
+<body>
+    <div id="content" class="main-content">
+
+        <div class="carousel box-inner">
+            <div class="box-header well clearfix" data-original-title="">
+                <h2><i class="glyphicon glyphicon-hand-right"></i>目前操作功能：@ViewBag.Title</h2>
+            </div>
+            <div class="tab-content" style="margin-top:0px">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">@(ViewBag.Info)邮件</h3>
+                    </div>
+                    <div class="panel-body">
+                        <div class="row" style="margin-top:5px;margin-bottom:5px;">
+                            <div class="col-xs-2 col-md-2" style="text-align:right">发送人：</div>
+                            <div class="col-xs-6 col-md-3">
+                                <input maxlength="18" id="txtSender" style="width: 395px; display: inline;" class="form-control input-sm" type="text" value="@(entity!=null?entity.Sender:"GM")">
+                            </div>
+                            <div class="col-xs-5 col-md-3" style="text-align:left">
+
+                            </div>
+                        </div>
+                        <div class="row" style="margin-top:5px;margin-bottom:5px;">
+                            <div class="col-xs-2 col-md-2" style="text-align:right">目标用户游戏ID：</div>
+                            <div class="col-xs-6 col-md-3">
+                                <input id="txtGameID" style="width: 395px; display: inline;" class="form-control input-sm" type="text" value="@(entity!=null?entity.GameID.ToString():"")">
+                            </div>
+                            <div class="col-xs-5 col-md-3" style="text-align:left">
+
+                            </div>
+                        </div>
+                        <div class="row" style="margin-top:5px;margin-bottom:5px;">
+                            <div class="col-xs-2 col-md-2" style="text-align:right">标题：</div>
+                            <div class="col-xs-6 col-md-3">
+                                <input maxlength ="18" id="txtSubject" style="width: 395px; display: inline;" class="form-control input-sm" type="text" value="@(entity!=null?entity.Title:"")">
+</div>
+                            <div class="col-xs-5 col-md-3" style="text-align:left">
+
+                            </div>
+                        </div>
+                        <div class="row" style="margin-top:5px;margin-bottom:5px;">
+                            <div class="col-xs-2 col-md-2" style="text-align:right">内容：</div>
+                            <div class="col-xs-6 col-md-3">
+                                <textarea id="txtBody" class="form-control input-sm" style="width: 395px; display: inline;" rows="10">@(entity != null ? entity.Contents : "")</textarea>
+                            </div>
+                            <div class="col-xs-5 col-md-3" style="text-align:left">
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <ul class="list-group">
+                        <li class="list-group-item">
+                            <ul class="list-inline">
+                                <li><a class="btn btn-success search btn-md" href="@Url.Action("MobileEmailList", "Web")"><i class="glyphicon glyphicon-arrow-left"></i>返回</a></li>
+                                @if (entity == null)
+                                {
+                                    <li><a class="btn btn-primary search btn-md" href="#" onclick="add();"><i class="glyphicon glyphicon-save"></i>保存</a></li>
+                                }
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <script type="text/javascript">      
+        function add() {
+            var data = {};
+            data.EmailID = '@ViewBag.ID';
+            
+            var Sender = $("#txtSender").val().trim();
+            if (Sender == "") {
+                alert("发送人不能为空");
+                return false;
+            }
+            data.Sender = Sender;
+
+            var GameID = $("#txtGameID").val().trim();
+            if (GameID == "") {
+                alert("目标用户游戏ID不能为空");
+                return false;
+            }
+            data.GameID = GameID;
+
+            var Subject = $("#txtSubject").val().trim();
+            if (Subject == "") {
+                alert("标题不能为空");
+                return false;
+            }
+            data.Title = Subject;
+            var Body = $("#txtBody").val().trim();
+            if (Body == "") {
+                alert("内容不能为空");
+                return false;
+            }
+            data.Contents = Body;
+            AjaxSubmit("/Web/DoMobileEmailInfo", data, callBack, "del");
+        }
+        //回调函数
+        function callBack(jsonData, fname) {
+            switch (fname) {
+                case "del":
+                    alert(jsonData.Msg);
+                    window.location.href = "/Web/MobileEmailList";
+                    //window.opener.location.reload();
+                    break;
+            }
+        }
+    </script>
+
+</body>
+</html>

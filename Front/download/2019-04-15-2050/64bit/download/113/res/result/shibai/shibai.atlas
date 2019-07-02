@@ -1,0 +1,62 @@
+
+shibai.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiesuandi
+  rotate: false
+  xy: 2, 331
+  size: 703, 149
+  orig: 703, 149
+  offset: 0, 0
+  index: -1
+shibai
+  rotate: false
+  xy: 707, 346
+  size: 261, 134
+  orig: 261, 134
+  offset: 0, 0
+  index: -1
+shibai1
+  rotate: false
+  xy: 2, 2
+  size: 128, 66
+  orig: 128, 66
+  offset: 0, 0
+  index: -1
+shibaidi
+  rotate: false
+  xy: 2, 192
+  size: 565, 137
+  orig: 565, 137
+  offset: 0, 0
+  index: -1
+shibaihuangguan
+  rotate: false
+  xy: 2, 70
+  size: 168, 120
+  orig: 168, 120
+  offset: 0, 0
+  index: -1
+shibaihuangguanyou
+  rotate: true
+  xy: 172, 71
+  size: 119, 140
+  orig: 119, 140
+  offset: 0, 0
+  index: -1
+shibaihuangguanzuo
+  rotate: false
+  xy: 569, 226
+  size: 107, 103
+  orig: 107, 103
+  offset: 0, 0
+  index: -1
+shuchibang
+  rotate: false
+  xy: 314, 89
+  size: 150, 101
+  orig: 150, 101
+  offset: 0, 0
+  index: -1

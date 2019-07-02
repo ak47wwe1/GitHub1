@@ -1,0 +1,83 @@
+
+shisanshui.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sh_01
+  rotate: false
+  xy: 565, 170
+  size: 240, 47
+  orig: 240, 48
+  offset: 0, 0
+  index: -1
+sh_02
+  rotate: false
+  xy: 350, 5
+  size: 66, 45
+  orig: 68, 49
+  offset: 1, 3
+  index: -1
+sh_03
+  rotate: false
+  xy: 279, 7
+  size: 69, 43
+  orig: 70, 45
+  offset: 0, 1
+  index: -1
+sh_04
+  rotate: false
+  xy: 279, 161
+  size: 284, 56
+  orig: 286, 57
+  offset: 1, 0
+  index: -1
+sh_05
+  rotate: false
+  xy: 279, 52
+  size: 184, 107
+  orig: 185, 109
+  offset: 1, 1
+  index: -1
+sh_06
+  rotate: false
+  xy: 465, 25
+  size: 147, 134
+  orig: 149, 135
+  offset: 1, 0
+  index: -1
+sh_07
+  rotate: false
+  xy: 732, 39
+  size: 91, 129
+  orig: 93, 131
+  offset: 1, 1
+  index: -1
+sh_08
+  rotate: false
+  xy: 932, 90
+  size: 66, 127
+  orig: 66, 129
+  offset: 0, 1
+  index: -1
+sh_09
+  rotate: false
+  xy: 614, 45
+  size: 116, 123
+  orig: 117, 124
+  offset: 0, 0
+  index: -1
+sh_10
+  rotate: false
+  xy: 825, 83
+  size: 105, 134
+  orig: 106, 136
+  offset: 1, 1
+  index: -1
+sh_11
+  rotate: false
+  xy: 2, 2
+  size: 275, 215
+  orig: 277, 217
+  offset: 1, 1
+  index: -1

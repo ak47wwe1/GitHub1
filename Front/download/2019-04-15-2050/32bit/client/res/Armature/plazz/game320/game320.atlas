@@ -1,0 +1,48 @@
+
+majiang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+majing
+  rotate: false
+  xy: 291, 2
+  size: 158, 93
+  orig: 158, 93
+  offset: 0, 0
+  index: -1
+majing-di
+  rotate: false
+  xy: 2, 2
+  size: 287, 220
+  orig: 287, 220
+  offset: 0, 0
+  index: -1
+majing_1
+  rotate: true
+  xy: 738, 93
+  size: 129, 161
+  orig: 129, 161
+  offset: 0, 0
+  index: -1
+majing_2
+  rotate: false
+  xy: 550, 121
+  size: 186, 101
+  orig: 186, 101
+  offset: 0, 0
+  index: -1
+shangou
+  rotate: false
+  xy: 291, 97
+  size: 257, 125
+  orig: 257, 125
+  offset: 0, 0
+  index: -1
+shanguang
+  rotate: false
+  xy: 901, 120
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1

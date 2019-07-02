@@ -1,0 +1,55 @@
+
+gongxi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: false
+  xy: 2, 2
+  size: 257, 177
+  orig: 257, 177
+  offset: 0, 0
+  index: -1
+gongxi
+  rotate: false
+  xy: 432, 637
+  size: 233, 113
+  orig: 233, 113
+  offset: 0, 0
+  index: -1
+gongxi1
+  rotate: false
+  xy: 2, 411
+  size: 383, 277
+  orig: 389, 281
+  offset: 3, 2
+  index: -1
+guangxiao1
+  rotate: false
+  xy: 801, 851
+  size: 149, 149
+  orig: 154, 153
+  offset: 1, 4
+  index: -1
+texiao10
+  rotate: false
+  xy: 432, 752
+  size: 367, 248
+  orig: 367, 248
+  offset: 0, 0
+  index: -1
+texiao11
+  rotate: false
+  xy: 2, 690
+  size: 428, 310
+  orig: 428, 310
+  offset: 0, 0
+  index: -1
+texiao12
+  rotate: false
+  xy: 2, 181
+  size: 307, 228
+  orig: 307, 228
+  offset: 0, 0
+  index: -1

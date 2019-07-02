@@ -1,0 +1,1898 @@
+{
+  "content_scale": 1.0,
+  "armature_data": [
+    {
+      "strVersion": "1.6.0.0",
+      "version": 1.6,
+      "name": "game100",
+      "bone_data": [
+        {
+          "name": "doudizhu_diban",
+          "parent": "",
+          "dI": 0,
+          "x": 0.63973712921142578,
+          "y": -103.06462860107422,
+          "z": 1,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.57750762,
+          "kY": 1.57750762,
+          "arrow_x": 186.25442504882813,
+          "arrow_y": -0.00010806554928421974,
+          "effectbyskeleton": true,
+          "bl": 186,
+          "display_data": [
+            {
+              "name": "doudizhuziyuan/beijing.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 97.522644,
+                  "y": -1.07098389,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57750762,
+                  "kY": -1.57751024
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "doudizhu_biaoti",
+          "parent": "doudizhu_diban",
+          "dI": 0,
+          "x": 22.740196228027344,
+          "y": -8.3119964599609375,
+          "z": 11,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.57750762,
+          "kY": -1.57750762,
+          "arrow_x": 0.0001201629638671875,
+          "arrow_y": 6.8353016104083508E-05,
+          "effectbyskeleton": true,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "doudizhuziyuan/doudizhubiaoti.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": -9.722534,
+                  "y": 1.83312988,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "doudizhu_dou",
+          "parent": "doudizhu_diban",
+          "dI": 0,
+          "x": 35.227157592773438,
+          "y": -3.4866943359375,
+          "z": 10,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -0.190684319,
+          "kY": 0.190684319,
+          "arrow_x": 121.10184478759766,
+          "arrow_y": -9.9436292657628655E-06,
+          "effectbyskeleton": true,
+          "bl": 121,
+          "display_data": [
+            {
+              "name": "doudizhuziyuan/douzi/dou_00000.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 59.81549,
+                  "y": 10.4160156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.76819253,
+                  "kY": -1.76819324
+                }
+              ]
+            },
+            {
+              "name": "doudizhuziyuan/douzi/dou_00001.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 59.81549,
+                  "y": 10.4160156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.76819253,
+                  "kY": -1.76819253
+                }
+              ]
+            },
+            {
+              "name": "doudizhuziyuan/douzi/dou_00002.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 59.81549,
+                  "y": 10.4160156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.76819253,
+                  "kY": -1.76819253
+                }
+              ]
+            },
+            {
+              "name": "doudizhuziyuan/douzi/dou_00003.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 59.81549,
+                  "y": 10.4160156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.76819253,
+                  "kY": -1.76819253
+                }
+              ]
+            },
+            {
+              "name": "doudizhuziyuan/douzi/dou_00004.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 59.81549,
+                  "y": 10.4160156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.76819253,
+                  "kY": -1.76819253
+                }
+              ]
+            },
+            {
+              "name": "doudizhuziyuan/douzi/dou_00005.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 59.81549,
+                  "y": 10.4160156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.76819253,
+                  "kY": -1.76819253
+                }
+              ]
+            },
+            {
+              "name": "doudizhuziyuan/douzi/dou_00006.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 59.81549,
+                  "y": 10.4160156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.76819253,
+                  "kY": -1.76819253
+                }
+              ]
+            },
+            {
+              "name": "doudizhuziyuan/douzi/dou_00007.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 59.81549,
+                  "y": 10.4160156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.76819253,
+                  "kY": -1.76819253
+                }
+              ]
+            },
+            {
+              "name": "doudizhuziyuan/douzi/dou_00008.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 59.81549,
+                  "y": 10.4160156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.76819253,
+                  "kY": -1.76819253
+                }
+              ]
+            },
+            {
+              "name": "doudizhuziyuan/douzi/dou_00009.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 59.81549,
+                  "y": 10.4160156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.76819253,
+                  "kY": -1.76819253
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "doudizhu_guangxiao3",
+          "parent": "doudizhu_dou",
+          "dI": 0,
+          "x": 114.15245056152344,
+          "y": -10.992507934570313,
+          "z": 14,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.76819193,
+          "kY": -1.76819193,
+          "arrow_x": -2.384185791015625E-07,
+          "arrow_y": -1.2354052159935236E-05,
+          "effectbyskeleton": true,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "doudizhuziyuan/lanbaisexingxingguang.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": -0.6129036,
+                  "y": 1.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "doudizhu_pike1",
+          "parent": "doudizhu_dou",
+          "dI": 0,
+          "x": 41.112739562988281,
+          "y": 3.4004058837890625,
+          "z": 9,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.8779168,
+          "kY": -0.8779168,
+          "arrow_x": 101.31957244873047,
+          "arrow_y": -3.28067981172353E-05,
+          "effectbyskeleton": true,
+          "bl": 101,
+          "display_data": [
+            {
+              "name": "doudizhuziyuan/puke1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 52.3825073,
+                  "y": 0.233459473,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
+                  "kX": 0.890274942,
+                  "kY": -0.8902738
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "doudizhu_puke2",
+          "parent": "doudizhu_dou",
+          "dI": 0,
+          "x": 51.709293365478516,
+          "y": -4.47797155380249,
+          "z": 8,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.65522933,
+          "kY": -0.65522933,
+          "arrow_x": 96.152694702148438,
+          "arrow_y": 7.0690031861886382E-05,
+          "effectbyskeleton": true,
+          "bl": 96,
+          "display_data": [
+            {
+              "name": "doudizhuziyuan/puke2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 47.7407227,
+                  "y": 2.15740967,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.11296213,
+                  "kY": -1.11296332
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "doudizhu_puke3",
+          "parent": "doudizhu_dou",
+          "dI": 0,
+          "x": 63.751625061035156,
+          "y": 10.267642974853516,
+          "z": 7,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.3972243,
+          "kY": -0.3972243,
+          "arrow_x": 100.75509643554688,
+          "arrow_y": 3.725104033946991E-05,
+          "effectbyskeleton": true,
+          "bl": 100,
+          "display_data": [
+            {
+              "name": "doudizhuziyuan/puke3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 48.53923,
+                  "y": -0.230285645,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.37096727,
+                  "kY": -1.37096751
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "doudizhu_puke4",
+          "parent": "doudizhu_dou",
+          "dI": 0,
+          "x": 63.443759918212891,
+          "y": 16.375631332397461,
+          "z": 6,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0590446,
+          "kY": -0.0590446,
+          "arrow_x": 99.702842712402344,
+          "arrow_y": -1.7226338968612254E-06,
+          "effectbyskeleton": true,
+          "bl": 99,
+          "display_data": [
+            {
+              "name": "doudizhuziyuan/puke4.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 46.8175964,
+                  "y": 4.699768,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.70914721,
+                  "kY": -1.70914626
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "doudizhu_puke5",
+          "parent": "doudizhu_dou",
+          "dI": 0,
+          "x": 55.779319763183594,
+          "y": 15.019378662109375,
+          "z": 5,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -0.294022679,
+          "kY": 0.294022679,
+          "arrow_x": 100.66202545166016,
+          "arrow_y": -0.00013490320998243988,
+          "effectbyskeleton": true,
+          "bl": 100,
+          "display_data": [
+            {
+              "name": "doudizhuziyuan/puke5.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 47.4122925,
+                  "y": 1.40478516,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 2.06221485,
+                  "kY": -2.06221581
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "doudizhu_puke6",
+          "parent": "doudizhu_dou",
+          "dI": 0,
+          "x": 40.557235717773438,
+          "y": 16.50775146484375,
+          "z": 4,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -0.403145432,
+          "kY": 0.403145432,
+          "arrow_x": 110.60223388671875,
+          "arrow_y": 0.00012196897296234965,
+          "effectbyskeleton": true,
+          "bl": 110,
+          "display_data": [
+            {
+              "name": "doudizhuziyuan/puke6.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 54.8994141,
+                  "y": 1.45385742,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 2.17133665,
+                  "kY": -2.17133832
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "doudizhu_jinbi1",
+          "parent": "doudizhu_diban",
+          "dI": 0,
+          "x": 85.636421203613281,
+          "y": -110.32721710205078,
+          "z": 3,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.57750762,
+          "kY": -1.57750762,
+          "arrow_x": 0.0001697540283203125,
+          "arrow_y": 7.3121394962072372E-05,
+          "effectbyskeleton": true,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "doudizhuziyuan/jinbi2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": -1.38916016,
+                  "y": -3.027954,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "doudizhu_guangxiao1",
+          "parent": "doudizhu_jinbi1",
+          "dI": 0,
+          "x": -1.43896484375,
+          "y": 15.183013916015625,
+          "z": 12,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 9.8943710327148438E-06,
+          "arrow_y": 4.7250592615455389E-05,
+          "effectbyskeleton": true,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "doudizhuziyuan/jinsexingxingguagn.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 2.034546,
+                  "y": 0.344829559,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "doudizhu_jinbi2",
+          "parent": "doudizhu_diban",
+          "dI": 0,
+          "x": 74.398590087890625,
+          "y": 108.83628845214844,
+          "z": 2,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.57750762,
+          "kY": -1.57750762,
+          "arrow_x": -9.059906005859375E-05,
+          "arrow_y": 5.0233211368322372E-05,
+          "effectbyskeleton": true,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "doudizhuziyuan/jinbi1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": -2.36132813,
+                  "y": -3.02798462,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "doudizhu_guangxiao2",
+          "parent": "doudizhu_jinbi2",
+          "dI": 0,
+          "x": 3.2010498046875,
+          "y": -13.559638977050781,
+          "z": 13,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.05824057,
+          "kY": -0.05824057,
+          "arrow_x": 9.8943710327148438E-06,
+          "arrow_y": 4.7250592615455389E-05,
+          "effectbyskeleton": true,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "doudizhuziyuan/jinsexingxingguagn.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 2.034546,
+                  "y": 0.344829559,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "game100",
+      "mov_data": [
+        {
+          "name": "Animation1",
+          "dr": 41,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 0.4,
+          "mov_bone_data": [
+            {
+              "name": "doudizhu_guangxiao3",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1000,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.4999999,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.4999999,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079649,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.4999999,
+                  "cY": 0.4999999,
+                  "kX": 3.14159274,
+                  "kY": -3.141593,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": -1000,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.4999999,
+                  "cY": 0.4999999,
+                  "kX": 3.14159274,
+                  "kY": -3.141593,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "doudizhu_guangxiao2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.296903163,
+                  "kY": 0.296903163,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                }
+              ]
+            },
+            {
+              "name": "doudizhu_guangxiao1",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.4999999,
+                  "cY": 0.4999999,
+                  "kX": -0.09612471,
+                  "kY": 0.09612471,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.142572537,
+                  "kY": 0.142572537,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.4999999,
+                  "cY": 0.4999999,
+                  "kX": -0.09612471,
+                  "kY": 0.09612471,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                }
+              ]
+            },
+            {
+              "name": "doudizhu_biaoti",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "doudizhu_dou",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 2,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 4,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 6,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 4,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 8,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 6,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 12,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 7,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 14,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 8,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 16,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 9,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 18,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "doudizhu_pike1",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 8.629180908203125,
+                  "y": -7.84466552734375,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "doudizhu_puke2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 3,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 7.84466552734375,
+                  "y": -1.56890869140625,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 13,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 23,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "doudizhu_puke3",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 6,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 7.84466552734375,
+                  "y": -1.56890869140625,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 16,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 26,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "doudizhu_puke4",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 7.84466552734375,
+                  "y": -1.56890869140625,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 19,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 29,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "doudizhu_puke5",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 12,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 8.6291351318359375,
+                  "y": 2.353515625,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 22,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 32,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "doudizhu_puke6",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 7.0601959228515625,
+                  "y": 4.7069091796875,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 35,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "doudizhu_jinbi1",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": -2.6666033267974854,
+                  "y": 0.01789093017578125,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.07221772,
+                  "kY": -0.07221772,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 6,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": -10.666412353515625,
+                  "y": 0.071563720703125,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.288870871,
+                  "kY": -0.288870871,
+                  "fi": 26,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": -3.1999239921569824,
+                  "y": 0.0214691162109375,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0866612643,
+                  "kY": -0.0866612643,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "doudizhu_jinbi2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 5.333221435546875,
+                  "y": -0.035797119140625,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.23691076,
+                  "kY": -0.23691076,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "doudizhu_diban",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texture_data": [
+    {
+      "name": "doudizhuziyuan/puke6",
+      "width": 113.0,
+      "height": 119.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/beijing",
+      "width": 276.0,
+      "height": 215.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/douzi/dou_00001",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/doudizhubiaoti",
+      "width": 274.0,
+      "height": 55.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/jinbi1",
+      "width": 42.0,
+      "height": 36.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/jinbi2",
+      "width": 46.0,
+      "height": 39.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/puke1",
+      "width": 119.0,
+      "height": 122.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/puke2",
+      "width": 111.0,
+      "height": 119.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/puke3",
+      "width": 94.0,
+      "height": 116.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/puke4",
+      "width": 88.0,
+      "height": 117.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/puke5",
+      "width": 111.0,
+      "height": 131.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/douzi/dou_00000",
+      "width": 140.0,
+      "height": 160.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/douzi/dou_00002",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/douzi/dou_00003",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/douzi/dou_00004",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/douzi/dou_00005",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/douzi/dou_00006",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/douzi/dou_00007",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/douzi/dou_00008",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/douzi/dou_00009",
+      "width": 140.0,
+      "height": 160.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/jinsexingxingguagn",
+      "width": 100.0,
+      "height": 100.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "doudizhuziyuan/lanbaisexingxingguang",
+      "width": 100.0,
+      "height": 100.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    }
+  ],
+  "config_file_path": [
+    "datingdonghua_doudizhu0.plist"
+  ],
+  "config_png_path": [
+    "datingdonghua_doudizhu0.png"
+  ]
+}

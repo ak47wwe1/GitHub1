@@ -1,0 +1,62 @@
+
+youxikaishi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx1
+  rotate: false
+  xy: 2, 266
+  size: 349, 240
+  orig: 349, 240
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: false
+  xy: 757, 383
+  size: 138, 123
+  orig: 138, 123
+  offset: 0, 0
+  index: -1
+tx3
+  rotate: false
+  xy: 578, 350
+  size: 177, 156
+  orig: 177, 156
+  offset: 0, 0
+  index: -1
+yxks_kaishi
+  rotate: false
+  xy: 2, 2
+  size: 184, 99
+  orig: 184, 99
+  offset: 0, 0
+  index: -1
+yxks_kaishi1_00000
+  rotate: false
+  xy: 2, 103
+  size: 300, 161
+  orig: 300, 161
+  offset: 0, 0
+  index: -1
+yxks_shouqiang
+  rotate: false
+  xy: 353, 285
+  size: 223, 221
+  orig: 223, 221
+  offset: 0, 0
+  index: -1
+yxks_zidanke1
+  rotate: false
+  xy: 578, 298
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+yxks_zidanke2
+  rotate: true
+  xy: 304, 216
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1

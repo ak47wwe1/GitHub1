@@ -1,0 +1,97 @@
+
+jiang1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIG
+  rotate: false
+  xy: 770, 453
+  size: 435, 260
+  orig: 441, 263
+  offset: 2, 1
+  index: -1
+MEGA
+  rotate: false
+  xy: 1382, 795
+  size: 529, 187
+  orig: 529, 187
+  offset: 0, 0
+  index: -1
+SUPER
+  rotate: false
+  xy: 689, 715
+  size: 691, 267
+  orig: 694, 268
+  offset: 2, 0
+  index: -1
+WIN
+  rotate: false
+  xy: 770, 325
+  size: 364, 126
+  orig: 364, 126
+  offset: 0, 0
+  index: -1
+dibandeng
+  rotate: false
+  xy: 2, 146
+  size: 551, 472
+  orig: 551, 472
+  offset: 0, 0
+  index: -1
+guangzhuang1
+  rotate: false
+  xy: 555, 189
+  size: 213, 429
+  orig: 213, 430
+  offset: 0, 0
+  index: -1
+jiangchi
+  rotate: false
+  xy: 2, 48
+  size: 438, 96
+  orig: 440, 98
+  offset: 1, 1
+  index: -1
+texiao1
+  rotate: false
+  xy: 2, 2
+  size: 185, 44
+  orig: 187, 46
+  offset: 1, 1
+  index: -1
+texiao2
+  rotate: false
+  xy: 770, 227
+  size: 184, 96
+  orig: 186, 98
+  offset: 1, 1
+  index: -1
+texiao3
+  rotate: false
+  xy: 555, 166
+  size: 82, 21
+  orig: 82, 21
+  offset: 0, 0
+  index: -1
+texiao4
+  rotate: false
+  xy: 1207, 546
+  size: 205, 167
+  orig: 205, 167
+  offset: 0, 0
+  index: -1
+texiao5
+  rotate: false
+  xy: 2, 620
+  size: 685, 362
+  orig: 690, 369
+  offset: 2, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 1913, 894
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1

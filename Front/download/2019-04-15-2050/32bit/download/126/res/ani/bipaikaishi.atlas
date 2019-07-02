@@ -1,0 +1,62 @@
+
+bipaikaishi.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bpks_bipai
+  rotate: false
+  xy: 794, 411
+  size: 187, 94
+  orig: 187, 94
+  offset: 0, 0
+  index: -1
+bpks_bipai1
+  rotate: false
+  xy: 794, 507
+  size: 229, 92
+  orig: 229, 92
+  offset: 0, 0
+  index: -1
+bpks_kaishi
+  rotate: false
+  xy: 1517, 821
+  size: 190, 95
+  orig: 190, 95
+  offset: 0, 0
+  index: -1
+bpks_kaishi1
+  rotate: false
+  xy: 1517, 918
+  size: 232, 93
+  orig: 232, 93
+  offset: 0, 0
+  index: -1
+guangxiao
+  rotate: false
+  xy: 2, 2
+  size: 790, 1009
+  orig: 790, 1009
+  offset: 0, 0
+  index: -1
+guangxiao2
+  rotate: false
+  xy: 1751, 947
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+kaishibg
+  rotate: false
+  xy: 794, 807
+  size: 721, 204
+  orig: 721, 204
+  offset: 0, 0
+  index: -1
+youxibg
+  rotate: false
+  xy: 794, 601
+  size: 721, 204
+  orig: 721, 204
+  offset: 0, 0
+  index: -1

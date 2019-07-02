@@ -1,0 +1,27 @@
+
+benlunkaijiang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+benlunkaijiang
+  rotate: false
+  xy: 2, 2
+  size: 236, 64
+  orig: 236, 65
+  offset: 0, 0
+  index: -1
+guangzhuang
+  rotate: false
+  xy: 2, 68
+  size: 427, 430
+  orig: 427, 430
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 431, 419
+  size: 332, 79
+  orig: 332, 79
+  offset: 0, 0
+  index: -1

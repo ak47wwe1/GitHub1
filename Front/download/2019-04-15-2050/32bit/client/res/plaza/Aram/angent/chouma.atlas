@@ -1,0 +1,48 @@
+
+chouma.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chouma
+  rotate: false
+  xy: 2, 79
+  size: 146, 151
+  orig: 146, 151
+  offset: 0, 0
+  index: -1
+jingbi1
+  rotate: false
+  xy: 2, 2
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+jingbi2
+  rotate: false
+  xy: 252, 155
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+shaizi1
+  rotate: false
+  xy: 363, 162
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+shaizi2
+  rotate: false
+  xy: 425, 174
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+shanguang
+  rotate: false
+  xy: 150, 128
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+﻿.u_s_nop{ padding:0 10px!important}
+.u_s_log{ padding:20px 10px;}
+.u_s_log p.p3 a,.u_s_log p.p4 a{ width:100%; height:40px;line-height:40px;  display:block; text-align:center; font-size:14px; border-radius:3px; margin-top:10px; color:#fff}
+
+.u_s_log p.p3 a{background:#ff6400;}
+.u_s_log p.p4 a{background:#4dd0e1;}
+.u_in_top{background:url(http://m.txtbook.com.cn/images/u_inbg.png) no-repeat 100% 25px #f1f1f1; background-size:130px; height:170px; position:relative }
+.u_nobg{ background:none}
+.u_in_top a{ background:url(http://m.txtbook.com.cn/images/u_close.png) no-repeat; background-size:20px; height:30px; width:30px; display:block; position:absolute; top:10px; left:15px;}
+.u_in_top h2{ color:#333; font-size:23px; font-family:"楷体"; font-weight:normal}
+.u_in_top span{ color:#999; display:block}
+.u_wtxt{ padding:70px 0 0 25%}
+
+.u_in_texta{ margin-bottom:20px;}
+.u_in_texta li{ height:40px; line-height:40px; background:#fff; border-bottom:1px solid #e8e8e8}
+.u_in_texta li span{ display:inline-block; width:20%; padding-left:10px; color:#333; font-size:14px;}
+
+.u_in1{ background:#fff; border:0 none; height:27px; width:65%; padding-left:10px; color:#999}
+
+.u_wuser{ height:150px; line-height:150px; }
+.u_wuser span{ display:block;width:80px; height:80px; margin:0 auto; padding-top:20px; }
+.u_wuser img{ width:80px; height:80px; border-radius:50px;}
+.u_other_log p{ height:7px; background:url(http://m.txtbook.com.cn/images/u_inother.png) no-repeat #f1f1f1 center; text-align:center; line-height:5px; background-size:100%; padding-top:5px;}
+.u_other_log {bottom: 0;padding-top:40px;width: 100%;}
+
+.u_in_nav{ overflow:hidden; margin:0 auto; padding:15px 0 10px 0; background:#f1f1f1}
+.u_in_nav li{ width:25%; height:55px; float:left; padding:10px 0; font-size:12px; }
+.u_in_nav li a{color:#999;}
+.u_in_nav li img{ width:40px; margin:0 auto; display:block; margin-bottom:3px;}
+.u_in_nav li span{ display:block; text-align:center}
+
+.u_au_g_bot{ line-height:60px; height:60px; background:#fff; padding-top:15px;}
+.u_au_g_bot a{ display:block; width:90%; margin:0 auto; height:40px; line-height:40px; text-align: center; background:#71cc56; font-size:14px; color:#fff; border-radius:3px;}
+
+.u_list1{ background:#fff; overflow:hidden}
+
+
+.u_tip{height:150px; background:url(http://m.txtbook.com.cn/images/u_in2bg.png) no-repeat 30px center #FFF; background-size:100px; overflow:hidden;}
+.u_tip p{ width:150px; float:right; margin:30px 25px 0 0;}
+.u_tip p span{ display:block;font-size:15px; color:#666}
+.u_tip p span:first-child{  color:#c0896d}
+
+.u_au_txt li{height:40px; padding:10px; overflow:hidden; background:#fcf8d2; border-top:1px solid #e7dc76;border-bottom:1px solid #e7dc76}
+.u_au_txt li span{ display:block; float:left; width:68%; color:#967036}
+.u_au_txt li a{ display:block; float:right; width:30%; text-align:center; height:25px; border-radius:20px;background:#ff6400; line-height:25px; color:#fff; margin-top:7px;}
+
+.u_title1{ height:45px; background:url(http://m.txtbook.com.cn/images/u_m.png) no-repeat 10px center #fff; background-size:15px; line-height:45px; font-size:14px; color:#333; padding-left:35px; border-bottom:1px solid #f1f1f1}
+.u_title2{ height:45px; line-height:45px; font-size:16px; color:#333; text-align:center; border-bottom:1px solid #f1f1f1}
+.u_title2 p{ width:100%; height:45px;}
+.u_title2 p:hover{ background:#f8f8f8}
+.u_title2 p span{ margin-left:10px;}
+.u_title2 p span.s1,.u_title2 p span.s2{ display:inline-block; width:20px; height:20px;  vertical-align:-25%}
+.u_title2 p span.s1{background:url(http://m.txtbook.com.cn/images/u_m_ds.png) no-repeat; background-size:15px;}
+.u_title2 p span.s2{background:url(http://m.txtbook.com.cn/images/u_m_ds2.png) no-repeat; background-size:15px;}
+.u_alist{ overflow:hidden}
+.u_alist li{ float:left; width:50%; height:57px; background:#fff;border-bottom:1px solid #f1f1f1}
+.u_alist li a{ display:block; overflow:hidden; height:57px;padding:10px; border-right:1px solid #f1f1f1; }
+.u_alist li a img{ width:35px; height:35px; float:left; margin-right:10px;}
+.u_alist li a span{ font-size:13px; color:#666; display:block}
+.u_alist li a i{ display:block; font-style:normal; font-size:10px; color:#ff6400}
+.u_alist li:hover{ background:#f1f1f1}
+
+.u_au_cur li{ background:#fce2d2; border-top:1px solid #ffd2b6;border-bottom:1px solid #ffd2b6}
+.u_au_cur li span{ display:block; float:left; width:65%; color:#ff6400}
+.u_au_cur li a{ display:block; float:right; width:25%;text-align:center; height:25px; border-radius:20px;background:#ff6400; line-height:25px; color:#fff; margin-top:7px;}
+
+.pb150{ padding-bottom:150px;}
+
+.u_au_pay{ padding:10px; overflow:hidden}
+.u_au_pay ul{ overflow:hidden}
+.u_au_pay li{ width:50%; margin-bottom:10px; float:left; position:relative}
+.u_au_pay li a{ display:block; width:85%; margin:0 auto; background:#fff; height:43px; padding:7px 5% 0 5%;font-size:14px; color:#333}
+.u_au_pay li a p{ margin-bottom:-7px}
+.u_au_pay li a span{ font-size:10px; color:#ff6400}
+.u_au_pay li i{ display:block;background:url(http://m.txtbook.com.cn/images/u_hotbg.png) no-repeat; background-size:100%; width:40px; height:40px; position:absolute; top:0; right:2.5%; z-index:999; font-style:normal}
+
+.u_au_pay li i.i1{background:url(http://m.txtbook.com.cn/images/u_hotbg100.png) no-repeat; background-size:100%;}
+.u_au_pay li i.i2{background:url(http://m.txtbook.com.cn/images/u_hotbg50.png) no-repeat; background-size:100%;}
+.u_au_pay li i.i3{background:url(http://m.txtbook.com.cn/images/u_hotbg20.png) no-repeat; background-size:100%;}
+.u_au_pay li i.i4{background:url(http://m.txtbook.com.cn/images/u_hotbg10.png) no-repeat; background-size:100%;}
+.u_au_pay li i.i5{background:url(http://m.txtbook.com.cn/images/u_hotbg6.png) no-repeat; background-size:100%;}
+.u_au_pay li i.i6{background:url(http://m.txtbook.com.cn/images/u_hotbg5.png) no-repeat; background-size:100%;}
+.u_au_pay li i.i7{background:url(http://m.txtbook.com.cn/images/u_hotbg2.png) no-repeat; background-size:100%;}
+.u_au_pay li i.i8{background:url(http://m.txtbook.com.cn/images/u_hotbg1.png) no-repeat; background-size:100%;}
+
+.u_au_pay li i span{transform:rotate(45deg); width:100%; display:block; text-align:center;padding:7px 0 0 5px; margin-left:5px;  color:#fff; font-size:9px;}
+.u_top_close{ height:45px; line-height:45px; background:#fff; border-bottom:1px solid #e7e7e7; overflow:hidden}
+.u_top_close span{ font-size:14px; color:#333; display:inline-block; padding-left:10px; float:left}
+.u_top_close a{ background:url(http://m.txtbook.com.cn/images/u_close.png) no-repeat center; background-size:14px; width:45px; height:45px; display:inline-block; float:right}
+.u_top_close a:hover{ background:url(http://m.txtbook.com.cn/images/u_close.png) no-repeat center #f1f1f1;background-size:14px; }
+.u_rs{ background:#FFF}
+.u_rs h2{ height:30px; line-height:30px; color:#888; font-size:13px; font-weight:normal; margin-bottom:5px; padding-left:1%}
+.u_rs li a{ border:1px solid #f1f1f1;}
+.u_rs li p,.u_rs li span{ padding-left:10px;}
+.u_rs li p.p1{ margin-top:7px;}
+.u_rs_p{ height:30px;}
+.u_rs_p a{ height:30px; line-height:30px; font-size:13px; color:#333; padding-left:24px; background:url(http://m.txtbook.com.cn/images/u_rs_no.png) no-repeat 3% center; background-size:15px;}
+.u_rs_p a.cur{ background:url(http://m.txtbook.com.cn/images/u_rs_yes.png) no-repeat 3% center; background-size:15px;}
+.au_t_pcur p{ color:#a1a1a1}
+
+.u_rs h3{ height:30px; line-height:30px; margin-bottom:11px; padding-left:1%; font-weight:normal; font-size:14px; color:#333}
+.u_rs h3 span{ color:#ff6400}
+.u_rs .u_s_log{ margin-bottom:10px!important}
+.u_rs .u_s_nop{ padding:0!important}
+
+.ch_bg{width:100%; background:url(http://m.txtbook.com.cn/images/ch001/ch_bg.png)no-repeat center 30px; background-size:100%; position:relative; overflow:hidden}
+.ch_close{ padding:15px; background:url(http://m.txtbook.com.cn/images/ch001/hot_close.png) no-repeat; background-size:30px; display:block; margin:45px 5.9%; float:right;}
+.ch_bg h1{margin:75% 0 10px 0}
+.ch_bg h1 img{ width:100%}
+.ch_bg li { margin-bottom:5px; }
+.ch_bg li a{background:url(http://m.txtbook.com.cn/images/ch001/input_no.png) no-repeat 13% 10%; background-size:6.5%; width:100%; display:block; overflow:hidden}
+.ch_bg li a.cur{background:url(http://m.txtbook.com.cn/images/ch001/input_yes.png) no-repeat 13% 10%; background-size:6.5%;}
+.ch_bg li img{ width:70%; float:right; margin:0 8% 6px 0;}
+.ch_pay{ background: #2b1957 none repeat scroll 0 0;margin: 0 auto; overflow: hidden;padding: 10px 0;width: 88.1%;}
+.ch_pay a{ display: block;float: left; margin: 0 1%;text-align: center; width: 31.3%;}
+.ch_pay a img{ width:90%}
+.ch_nopay{ padding:15px 0;text-align:center; font-size:15px; background:#402680;width: 88.1%; margin:0 auto}
+.ch_nopay a{ color:#834f7f}

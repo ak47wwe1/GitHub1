@@ -1,0 +1,55 @@
+
+daojishi.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 33
+  size: 123, 93
+  orig: 123, 93
+  offset: 0, 0
+  index: -1
+bggaoguang
+  rotate: false
+  xy: 230, 82
+  size: 111, 44
+  orig: 111, 44
+  offset: 0, 0
+  index: -1
+shizheng
+  rotate: false
+  xy: 127, 55
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1
+shizhengfaguang1
+  rotate: false
+  xy: 230, 62
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+shizhengfaguang2
+  rotate: false
+  xy: 343, 72
+  size: 71, 54
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+zhiheng
+  rotate: false
+  xy: 416, 73
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+zhizhengguang
+  rotate: false
+  xy: 127, 2
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
